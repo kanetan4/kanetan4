@@ -16,6 +16,8 @@ Notable Coursework:
 - BC2406 Analytics I
 - BC2407 Analytics II
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/kanetan4)
+
 Skillsets:
 
 
