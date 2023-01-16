@@ -17,6 +17,7 @@ Notable Coursework:
 - BC2407 Analytics II
 
 📈 Leetcode Stats
+
 ![Leetcode Stats](https://leetcard.jacoblin.cool/kanetan4)
 
 Top Languages
