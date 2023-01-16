@@ -6,15 +6,15 @@ My name is Kane and I am a Year 2 Business Analytics & Computer Science Student 
 - 🌱 I’m currently learning ...
 
 Notable Coursework:
-SC1003 Intro to Computing
-SC1015 Intro to Data Science & Artificial Intelligence
-SC1007 Data Structures & Algorithms
-SC2002 Object Oriented Design & Programming
-SC2006 Software Engineering
+- SC1003 Intro to Computing
+- SC1015 Intro to Data Science & Artificial Intelligence
+- SC1007 Data Structures & Algorithms
+- SC2002 Object Oriented Design & Programming
+- SC2006 Software Engineering
 
-BC2402 Designing & Developing Databases
-BC2406 Analytics I
-BC2407 Analytics II
+- BC2402 Designing & Developing Databases
+- BC2406 Analytics I
+- BC2407 Analytics II
 
 Skillsets:
 
