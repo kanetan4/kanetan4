@@ -46,11 +46,6 @@ Database:
 ![image](https://user-images.githubusercontent.com/84501314/212895827-1920bc5f-63a5-46aa-b4ba-f06077895c07.png)
 ![image](https://user-images.githubusercontent.com/84501314/212895888-31586294-0864-40cc-928a-b50eab87f9f1.png)
 
-Connect with me HERE:
-
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 
 📈 Leetcode Stats
 
