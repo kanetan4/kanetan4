@@ -31,15 +31,18 @@ Tech:
 ![image](https://user-images.githubusercontent.com/84501314/212894740-bca35030-77a1-4677-bdf0-b18d58f8cd62.png)
 
 Data Analysis:
+
 ![image](https://user-images.githubusercontent.com/84501314/212895571-2f0c2f4c-1959-4825-8cd6-6af1edea407d.png)
 ![image](https://user-images.githubusercontent.com/84501314/212895682-41940d26-1741-4fb7-ae11-102f66d78390.png)
 
 Web Development:
+
 ![image](https://user-images.githubusercontent.com/84501314/212895207-9af50938-3f79-42f9-bed6-91f9ca407126.png)
 ![image](https://user-images.githubusercontent.com/84501314/212895114-68bbea90-e7f8-491f-866d-c941fd191f21.png)
 ![image](https://user-images.githubusercontent.com/84501314/212895323-ed4f2cd1-8849-44ad-89a9-ace204d5f0a0.png)
 
 Database:
+
 ![image](https://user-images.githubusercontent.com/84501314/212895827-1920bc5f-63a5-46aa-b4ba-f06077895c07.png)
 ![image](https://user-images.githubusercontent.com/84501314/212895888-31586294-0864-40cc-928a-b50eab87f9f1.png)
 
