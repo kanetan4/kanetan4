@@ -11,18 +11,9 @@ Notable Coursework:
 - SC1007 Data Structures & Algorithms
 - SC2002 Object Oriented Design & Programming
 - SC2006 Software Engineering
-
 - BC2402 Designing & Developing Databases
 - BC2406 Analytics I
 - BC2407 Analytics II
-
-📈 Leetcode Stats
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/kanetan4)
-
-Top Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 Tech:
 
@@ -43,6 +34,9 @@ Connect with me HERE:
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 
+📈 Leetcode Stats
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/kanetan4)
 <!--
 **kanetan4/kanetan4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
