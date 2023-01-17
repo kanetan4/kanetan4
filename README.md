@@ -27,6 +27,9 @@ Tech:
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
+![image](https://user-images.githubusercontent.com/84501314/212894740-bca35030-77a1-4677-bdf0-b18d58f8cd62.png)
+
+
 
 Connect with me HERE:
 
