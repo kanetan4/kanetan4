@@ -15,6 +15,9 @@ Notable Coursework:
 - BC2406 Analytics I
 - BC2407 Analytics II
 
+Competitions:
+- SCSE TechFest Hackathon 2023 Finalist 
+
 Tech:
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
