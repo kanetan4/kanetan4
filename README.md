@@ -2,8 +2,8 @@
 
 My name is Kane and I am a Year 2 Business Analytics & Computer Science Student @Nanyang Technological University
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on my Personal Portfolio Website using React.js
+- 🌱 I’m currently learning MERN Stack!!
 
 Notable Coursework:
 - SC1003 Intro to Computing
