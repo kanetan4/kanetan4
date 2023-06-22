@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Kane and I am a Year 2 Business Analytics & Computer Science Student @Nanyang Technological University
+My name is Kane and I am a Year 2 Business Analytics & Computer Science Student @ Nanyang Technological University
 
 - 🔭 I’m currently working on my Personal Portfolio Website using React.js
 - 🌱 I’m currently learning MERN Stack!!
@@ -16,6 +16,7 @@ Notable Coursework:
 - BC2407 Analytics II
 
 Competitions:
+- DSTA BrainHack CODE_EXP 2023 Finalist
 - SCSE TechFest Hackathon 2023 Finalist 
 
 Tech:
