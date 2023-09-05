@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Kane and I am a Year 2 Business Analytics & Computer Science Student @ Nanyang Technological University
+My name is Kane and I am a Year 3 Business Analytics & Computer Science Student @ Nanyang Technological University
 
 - 🔭 I’m currently working on my Personal Portfolio Website using React.js
 - 🌱 I’m currently learning MERN Stack!!
@@ -9,15 +9,19 @@ Notable Coursework:
 - SC1007 Data Structures & Algorithms
 - SC2001 Algorithm Design & Analysis
 - SC2002 Object Oriented Design & Programming
+- SC2005 Operating Systems
 - SC2006 Software Engineering
+- SC2008 Computer Networks
+- SC3000 Artificial Intelligence
 - BC2402 Designing & Developing Databases
 - BC2406 Analytics I
 - BC2407 Analytics II
 
 Competitions:
-- Atlas Madness: Hack MongoDB on Google Cloud
+- Morgan Stanley Tech X Challenge [Champion]
 - DSTA BrainHack CODE_EXP 2023 [Finalist]
 - SCSE TechFest Hackathon 2023 [Finalist]
+- Atlas Madness: Hack MongoDB on Google Cloud [Participant]
 
 Back End:
 
@@ -25,6 +29,7 @@ Back End:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 Front End:
 
@@ -35,7 +40,6 @@ Front End:
 ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 Database Design:
