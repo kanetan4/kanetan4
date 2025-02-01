@@ -1,21 +1,9 @@
 ### Hi there 👋
 
-My name is Kane and I am a Year 3 Business Analytics & Computer Science Student @ Nanyang Technological University
+My name is Kane and I am a Final Year Business Analytics & Computer Science Student @ Nanyang Technological University
 
-- 🔭 I’m currently working on my Personal Portfolio Website using React.js
-- 🌱 I’m currently learning MERN Stack!!
-
-Notable Coursework:
-- SC1007 Data Structures & Algorithms
-- SC2001 Algorithm Design & Analysis
-- SC2002 Object Oriented Design & Programming
-- SC2005 Operating Systems
-- SC2006 Software Engineering
-- SC2008 Computer Networks
-- SC3000 Artificial Intelligence
-- BC2402 Designing & Developing Databases
-- BC2406 Analytics I
-- BC2407 Analytics II
+- 🔭 I’m currently working on my FYP on AI for Quantitative Finance & Wealth Management!!
+- 🌱 I’m currently working on a passion project aiming to make street dance more accessible and monetizable in Singapore!!
 
 Competitions:
 - Morgan Stanley Tech X Challenge [Champion]
